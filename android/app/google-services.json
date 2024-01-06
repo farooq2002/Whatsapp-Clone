@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "905502142591",
+    "project_id": "chatappriverpod-7006a",
+    "storage_bucket": "chatappriverpod-7006a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905502142591:android:d38a30871620a32e854f4a",
+        "android_client_info": {
+          "package_name": "com.example.whatasppflutterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4Auk-NWUiZpxMOG_0v_OUpVGOaCwKiOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
